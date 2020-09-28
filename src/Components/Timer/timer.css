@@ -18,6 +18,7 @@
     background-color: #009719;
     outline: none;
     color: #fff;
+    cursor: pointer;
 }
 .timer-btn:hover { background-color: #00a036; }
 
