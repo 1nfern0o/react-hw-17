@@ -1,0 +1,32 @@
+.timer-wrapper {
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.timer-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.timer-btn {
+    font-size: 20px;
+    margin-right: 20px;
+    padding: 7px 25px;
+    border: 1px solid #003815;
+    border-radius: 10px;
+    background-color: #009719;
+    outline: none;
+    color: #fff;
+}
+.timer-btn:hover { background-color: #00a036; }
+
+.timer-block h3 { margin-right: 20px; }
+
+.timer-line {
+    margin: 0 auto;
+    height: 30px;
+    border: 1px solid #003815;
+    border-radius: 10px;
+    background-color: #009719;
+}
