@@ -1,6 +1,5 @@
 import React, {useEffect, useState} from "react";
 import "./timer.css";
-/*import Timer from "./timer";*/
 
 const Timers = ({autoStart= false, startTime = 0, speedTime = "1000"}) => {
 
